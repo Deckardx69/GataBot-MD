@@ -80,8 +80,8 @@ global.Key360 = ['964f-0c75-7afc'] //keys ephoto360
 
 //⊱ ━━━━━.⋅ Sticker WM ⋅.━━━━ ⊰
 
-global.packname = '🐈 𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿'
-global.author = '𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
+global.packname = 'ᴅᴇᴄᴋᴀʀᴅ  ✓'
+global.author = '+51 994 299 226'
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -91,7 +91,7 @@ global.author = '𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
 global.vs = '1.2.15'
 global.version = vs
 
-global.gt = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿'
+global.gt = 'ᴅᴇᴄᴋᴀʀᴅ  ✓'
 global.gatabot = gt
 
 global.yt = 'https://youtube.com/channel/UCpNU4eY7eiI0ve05CssjdbA'
